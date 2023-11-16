@@ -46,7 +46,6 @@ class _MyHomePageState extends State<MyHomePage> {
     super.dispose();
   }
 
-  String url = 'assets/img.png';
 
   @override
   Widget build(BuildContext context) {
